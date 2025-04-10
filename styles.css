@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+h1, h2 {
+    text-align: center; /* Alinea el texto al centro */
+    margin-bottom: 1rem; /* Espaciado debajo del título */
+}
+
 /* Configuración general del cuerpo */
 body {
     font-family: 'Arial', sans-serif;
