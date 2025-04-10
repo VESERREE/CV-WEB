@@ -6,6 +6,8 @@
 }
 
 h1, h2 {
+
+    display: felx:;
     text-align: center; /* Alinea el texto al centro */
     margin-bottom: 1rem; /* Espaciado debajo del título */
 }
