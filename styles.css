@@ -6,9 +6,9 @@
 }
 
 h1, h2 {
-
-    display: felx:;
-    text-align: center; /* Alinea el texto al centro */
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
     margin-bottom: 1rem; /* Espaciado debajo del título */
 }
 
