@@ -1,90 +1,102 @@
-<<<<<<< HEAD
-# Curriculum Vitae Web
+# CV Web - Victor Salazar Cofré
 
-Un currículum vitae web minimalista y profesional, diseñado con un enfoque moderno y responsivo.
+## 📋 Descripción
+Este es mi curriculum vitae web personal, desarrollado con un diseño minimalista y profesional. El proyecto utiliza HTML, CSS y JavaScript para crear una experiencia interactiva y responsiva.
 
-## Características
+## 🎨 Características
+- Diseño minimalista y profesional
+- Fondo degradado de negro a púrpura oscuro
+- Efectos de cristal (glassmorphism)
+- Animaciones sutiles
+- Diseño responsivo
+- Secciones organizadas:
+  - Información personal
+  - Perfil profesional
+  - Habilidades técnicas y blandas
+  - Experiencia laboral
+  - Proyectos académicos
+  - Educación
+  - Idiomas
 
-- **Diseño Minimalista**: Interfaz limpia y profesional con fondo oscuro
-- **Totalmente Responsivo**: Se adapta a diferentes tamaños de pantalla
-- **Animaciones Suaves**: Efectos de transición y hover sutiles
-- **Estructura Clara**: Organización del contenido en secciones definidas
-- **Optimizado para SEO**: Estructura semántica HTML5
-
-## Estructura del Proyecto
-
-```
-.
-├── index.html          # Estructura principal del currículum
-├── style.css          # Estilos y animaciones
-├── image/            # Carpeta de imágenes
-│   ├── profile-photo.jpg  # Tu foto de perfil
-│   ├── university-logo.png # Logo de tu universidad
-│   └── background-pattern.jpg # Imagen de fondo (opcional)
-└── README.md         # Documentación del proyecto
-```
-
-## Secciones
-
-1. **Perfil Personal**
-   - Foto de perfil
-   - Nombre completo
-   - Carrera universitaria
-   - Año de estudio
-
-2. **Proyectos y Experiencia**
-   - Tarjetas de proyectos con:
-     - Título
-     - Descripción
-     - Tecnologías utilizadas
-
-## Personalización
-
-Para personalizar el currículum:
-
-1. Reemplaza las imágenes en la carpeta `image/`:
-   - `image/profile-photo.jpg` con tu foto
-   - `image/university-logo.png` con el logo de tu universidad
-   - `image/background-pattern.jpg` (opcional) con tu imagen de fondo preferida
-
-2. Modifica el contenido en `index.html`:
-   - Actualiza tu información personal
-   - Agrega o modifica los proyectos
-   - Actualiza las tecnologías utilizadas
-
-3. Ajusta los estilos en `style.css`:
-   - Colores en las variables CSS
-   - Tamaños de fuente
-   - Espaciados
-
-## Tecnologías Utilizadas
-
+## 🛠️ Tecnologías Utilizadas
 - HTML5
-- CSS3
+- CSS3 (con variables personalizadas y efectos modernos)
+- JavaScript (para animaciones y efectos)
 - Google Fonts (Inter)
-- Animaciones CSS
-- Diseño Responsivo
+- Diseño responsivo con media queries
 
-## Cómo Usar
+## 📁 Estructura del Proyecto
+```
+CV-WEB/
+├── index.html          # Página principal
+├── style.css           # Estilos principales
+├── image/              # Carpeta de imágenes
+│   ├── Foto Personal CV.jpg
+│   └── Logo utem.png
+└── README.md           # Documentación
+```
 
-1. Clona o descarga este repositorio
-2. Crea la carpeta `image/` y coloca tus imágenes dentro
-3. Abre `index.html` en tu navegador
-4. Personaliza el contenido según tus necesidades
-5. Sube a tu servidor web preferido
+## 🚀 Proceso de Desarrollo
+1. **Diseño Inicial**
+   - Creación de la estructura HTML básica
+   - Implementación del diseño responsivo
+   - Selección de paleta de colores y tipografía
 
-## Contribuciones
+2. **Implementación de Estilos**
+   - Desarrollo del sistema de colores con variables CSS
+   - Implementación de efectos de cristal
+   - Creación de animaciones y transiciones
+   - Optimización para diferentes dispositivos
 
-Siéntete libre de forkear este proyecto y personalizarlo según tus necesidades. Las sugerencias de mejora son bienvenidas.
+3. **Contenido y Secciones**
+   - Organización de la información personal
+   - Desarrollo de secciones de habilidades
+   - Implementación de la sección de proyectos
+   - Integración de la experiencia laboral
 
-## Licencia
+4. **Optimizaciones**
+   - Mejora de la accesibilidad
+   - Optimización de imágenes
+   - Ajustes de rendimiento
+   - Pruebas en diferentes navegadores
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-=======
-# CV-WEB
-CV WEB Personal UTEM 2025
-Dentro de este archivo se encontrará el paso a paso de la creación de esta página web la cual contiene mi Curriculum Vitae. Confío en mis conocimientos y mi motivación por esta área para hacer el mejor trabajo posible.
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Creación de Archivos
-Comenzamos con lo básico, creación de los archivos (index.html y styles.css)
->>>>>>> 3f3d402a8970bba9ccb776deaa679c0170660c91
+## 🔄 Comandos Git
+Para mantener el proyecto actualizado en GitHub:
+
+```bash
+# Inicializar repositorio (si es primera vez)
+git init
+
+# Agregar archivos
+git add .
+
+# Hacer commit
+git commit -m "Descripción de los cambios"
+
+# Conectar con GitHub (si es primera vez)
+git remote add origin https://github.com/VESERREE/CV-WEB.git
+
+# Subir cambios
+git push -u origin main
+```
+
+## 📱 Responsive Design
+El CV se adapta a diferentes tamaños de pantalla:
+- Desktop (> 1024px)
+- Tablet (768px - 1024px)
+- Mobile (< 768px)
+
+## 🎯 Objetivos Futuros
+- [ ] Implementar modo oscuro/claro
+- [ ] Agregar más animaciones interactivas
+- [ ] Optimizar el rendimiento
+- [ ] Agregar más proyectos
+- [ ] Implementar internacionalización
+
+## 📝 Licencia
+Este proyecto está bajo la Licencia MIT.
+
+## 👨‍💻 Autor
+Victor Salazar Cofré - Estudiante de Ingeniería en Informática UTEM
+- GitHub: [VESERREE](https://github.com/VESERREE)
+- Email: vsalazarco@utem.cl
