@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Curriculum Vitae Web
 
 Un currículum vitae web minimalista y profesional, diseñado con un enfoque moderno y responsivo.
@@ -79,3 +80,11 @@ Siéntete libre de forkear este proyecto y personalizarlo según tus necesidades
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+=======
+# CV-WEB
+CV WEB Personal UTEM 2025
+Dentro de este archivo se encontrará el paso a paso de la creación de esta página web la cual contiene mi Curriculum Vitae. Confío en mis conocimientos y mi motivación por esta área para hacer el mejor trabajo posible.
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Creación de Archivos
+Comenzamos con lo básico, creación de los archivos (index.html y styles.css)
+>>>>>>> 3f3d402a8970bba9ccb776deaa679c0170660c91
